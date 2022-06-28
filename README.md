@@ -10,3 +10,7 @@ In a way I want this to be a community effort to see what amazing programers can
 If you contibute I will add your name to the list.
 
 Please note I will not take any credit to anywork anyone else adds to the project
+
+Another thing this is designed in python though possibly can also add other languages and run thrm throught the main program.
+
+I guess any forks that can be created will be Contributions and the code maybe added if no malware nor viruses are linked or programed in unless its for a security protocall to protect the AI with permission from the Contributers
